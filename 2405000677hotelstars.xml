@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotels>
+
+  <hotel id="H001" stars="5">
+    <name>Grandubumwe Hotel</name>
+    <address>
+      <street>12 Palace Ave</street>
+      <city>Kigali</city>
+      <country>Rwanda</country>
+      <postal>KN001</postal>
+    </address>
+    <rooms>220</rooms>
+    <amenities>
+      <amenity>Spa</amenity>
+      <amenity>Infinity Pool</amenity>
+      <amenity>Fine Dining</amenity>
+      <amenity>Concierge</amenity>
+    </amenities>
+  </hotel>
+
+  <hotel id="H002" stars="5">"
+    <name>Imperial Lakeside Resort</name>
+    <address>
+      <street>7 Lake Road</street>
+      <city>Gisenyi</city>
+      <country>Rwanda</country>
+      <postal>GN010</postal>
+    </address>
+    <rooms>180</rooms>
+    <amenities>
+      <amenity>Private Beach</amenity>
+      <amenity>Wellness Center</amenity>
+      <amenity>Conference Halls</amenity>
+    </amenities>
+  </hotel>
+
+  <hotel id="H003" stars="5">
+    <name>Palais Royale</name>
+    <address>
+      <street>101 Royal Way</street>
+      <city>Musanze</city>
+      <country>Rwanda</country>
+      <postal>MS200</postal>
+    </address>
+    <rooms>150</rooms>
+    <amenities>
+      <amenity>Helipad</amenity>
+      <amenity>Rooftop Bar</amenity>
+      <amenity>Butler Service</amenity>
+    </amenities>
+  </hotel>
+
+
+  <hotel id="H004" stars="4">
+    <name>Cityview Hotel</name>
+    <address>
+      <street>45 Central Blvd</street>
+      <city>Kigali</city>
+      <country>Rwanda</country>
+      <postal>KN020</postal>
+    </address>
+    <rooms>120</rooms>
+    <amenities>
+      <amenity>Gym</amenity>
+      <amenity>Restaurant</amenity>
+      <amenity>Meeting Rooms</amenity>
+    </amenities>
+  </hotel>
+
+  <hotel id="H005" stars="4">
+    <name>Blue Horizon Inn</name>
+    <address>
+      <street>3 Riverside Drive</street>
+      <city>Huye</city>
+      <country>Rwanda</country>
+      <postal>HY045</postal>
+    </address>
+    <rooms>90</rooms>
+    <amenities>
+      <amenity>Pool</amenity>
+      <amenity>Free WiFi</amenity>
+      <amenity>Breakfast Buffet</amenity>
+    </amenities>
+  </hotel>
+
+  <hotel id="H006" stars="4">
+    <name>Garden Plaza</name>
+    <address>
+      <street>20 Green Lane</street>
+      <city>Rubavu</city>
+      <country>Rwanda</country>
+      <postal>RB030</postal>
+    </address>
+    <rooms>110</rooms>
+    <amenities>
+      <amenity>Business Center</amenity>
+      <amenity>On-site Parking</amenity>
+    </amenities>
+  </hotel>
+
+ 
+  <hotel id="H007" stars="3">
+    <name>Comfort Stay</name>
+    <address>
+      <street>88 Market St</street>
+      <city>Kibuye</city>
+      <country>Rwanda</country>
+      <postal>KB055</postal>
+    </address>
+    <rooms>60</rooms>
+    <amenities>
+      <amenity>Free Breakfast</amenity>
+      <amenity>Laundry Service</amenity>
+    </amenities>
+  </hotel>
+
+  <hotel id="H008" stars="3">
+    <name>Hillside Lodge</name>
+    <address>
+      <street>14 Hilltop Rd</street>
+      <city>Ruhengeri</city>
+      <country>Rwanda</country>
+      <postal>RH077</postal>
+    </address>
+    <rooms>48</rooms>
+    <amenities>
+      <amenity>Restaurant</amenity>
+      <amenity>Tour Desk</amenity>
+    </amenities>
+  </hotel>
+
+
+  <hotel id="H009" stars="2">
+    <name>Budget Inn</name>
+    <address>
+      <street>5 Crossroad</street>
+      <city>Kigali</city>
+      <country>Rwanda</country>
+      <postal>KN099</postal>
+    </address>
+    <rooms>30</rooms>
+    <amenities>
+      <amenity>Shared Kitchen</amenity>
+      <amenity>WiFi</amenity>
+    </amenities>
+  </hotel>
+
+  <hotel id="H010" stars="2">
+    <name>Traveler's Rest</name>
+    <address>
+      <street>2 Bus Terminal Way</street>
+      <city>Gitarama</city>
+      <country>Rwanda</country>
+      <postal>GT012</postal>
+    </address>
+    <rooms>25</rooms>
+    <amenities>
+      <amenity>24h Reception</amenity>
+      <amenity>Secure Parking</amenity>
+    </amenities>
+  </hotel>
+</hotels>
